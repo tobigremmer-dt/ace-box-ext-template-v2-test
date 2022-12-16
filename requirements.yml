@@ -1,4 +1,4 @@
 ---
 collections:
-- name: https://storage.googleapis.com/ace-box-public-roles/ace_box-ace_box-0.0.0.tar.gz
+- name: https://storage.googleapis.com/ace-box-public-roles/ace_box-roles-0.0.0.tar.gz
   source: url
