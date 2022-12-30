@@ -1,2 +1,3 @@
 collections:
-  - ace_box.roles
+  - ace_box.tools
+  - ace_box.apps
