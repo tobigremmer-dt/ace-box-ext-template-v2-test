@@ -1,6 +1,9 @@
 ---
 - include_role:
     name: microk8s
+    
+- include_role:
+    name: another-role
 
 - include_role:
     name: dashboard
